@@ -1,0 +1,8 @@
+﻿__pycache__/
+*.pyc
+*.log
+.env
+.playwright_storage.json
+.playwright.lock
+attachments/
+action_logs/
